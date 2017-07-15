@@ -10,8 +10,6 @@ public class Minicar extends car{
 		c1.color="blue";
 		System.out.println("子车的颜色是"+c1.color);
 	}
-	
-
 }
 
 class car{
