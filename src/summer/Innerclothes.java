@@ -1,7 +1,5 @@
 package summer;
 
-import java.lang.ProcessBuilder.Redirect;
-
 public class Innerclothes {
 	class clothes{
 		private String material;
